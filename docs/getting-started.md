@@ -1,20 +1,41 @@
 # Getting Started
 
-## Demo Access
+## What is BugBounty Arsenal?
 
-You can test the platform using the public demo scan.
+BugBounty Arsenal is a practical web testing and recon platform designed for bug bounty hunters and web developers.
 
----
-
-## Registration
-
-Accounts are only required for saving scan history and workflows.
+The platform focuses on simplifying repetitive testing workflows directly from the browser.
 
 ---
 
-## Recommended Workflow
+## Public Demo
+
+A public demo scan is available without registration.
+
+Registration is only required for saving scan history and workflows.
+
+---
+
+## Typical Workflow
 
 1. Add target
-2. Run recon workflow
-3. Review endpoints
-4. Export results
+2. Start recon workflow
+3. Review discovered endpoints
+4. Analyze findings
+5. Export results
+
+---
+
+## Features
+
+- Recon workflows
+- Endpoint discovery
+- Subdomain enumeration
+- Fuzzing support
+- Reporting utilities
+
+---
+
+## Notes
+
+Use only on authorized targets and legal testing environments.
