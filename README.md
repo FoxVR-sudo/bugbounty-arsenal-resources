@@ -25,7 +25,7 @@ The goal is to simplify repetitive web testing tasks without requiring complex l
 
 ## Live Demo
 
-https://bugbounty-arsenal.com
+https://bugbounty-arsenal.net
 
 Demo scans are available without registration.
 
