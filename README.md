@@ -1,32 +1,67 @@
-# BugBounty Arsenal - Resources
+# BugBounty Arsenal Resources
 
-Curated checklists, templates, and resources for running bug bounty programs and hunting efficiently.
-
-Built by hunters, for hunters. Used in production to triage 10,000+ reports.
-
-## What's inside
-
-- `checklists/` - Step-by-step testing guides for XSS, SSRF, IDOR, SQLi
-- `templates/` - Program policy, disclosure templates, scope definitions
-- `wordlists/` - Minimal, high-signal wordlists for brute forcing
-
-## Why this exists
-
-Most bug bounty resources are either too generic or hidden in private gists.
-These are the exact checklists and templates we use daily.
-
-No fluff. No paywalls. Just tools.
-
-## License
-
-MIT - Use freely, even commercially. Attribution appreciated but not required.
-
-## Part of BugBounty Arsenal
-
-This repo contains free resources only.
-
-For the full platform with 50+ automated detectors, Nuclei integration, and collaboration: [bugbounty-arsenal.com](https://bugbounty-arsenal.com)
+Curated workflows, tools and references for bug bounty hunters and web security researchers.
 
 ---
 
-Contributions welcome. Found a bypass not covered? Open a PR.
+## What is BugBounty Arsenal?
+
+BugBounty Arsenal is a practical web testing platform focused on recon workflows, endpoint discovery and security testing utilities.
+
+The goal is to simplify repetitive web testing tasks without requiring complex local setups.
+
+---
+
+## Features
+
+- Recon workflows
+- Endpoint discovery
+- Subdomain enumeration
+- Fuzzing support
+- Reporting tools
+- Web testing utilities
+
+---
+
+## Live Demo
+
+https://bugbounty-arsenal.com
+
+Demo scans are available without registration.
+
+Accounts are only required for saving scan history and workflows.
+
+---
+
+## Screenshots
+
+### Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Demo Scan
+![Demo Scan](assets/screenshots/demo-scan.png)
+
+### Recon Workflow
+![Recon Workflow](assets/screenshots/recon-workflow.png)
+
+---
+
+## Roadmap
+
+See:
+[ROADMAP.md](ROADMAP.md)
+
+---
+
+## Contributing
+
+Contributions, suggestions and workflow improvements are welcome.
+
+See:
+[CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
+## Disclaimer
+
+For authorized security testing and educational purposes only.
